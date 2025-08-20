@@ -3,9 +3,10 @@
 ### Roll No: 2
 
 
-## Q.2: Program to find majority element from an array using Moore Voting Algorithm  
-
+## Q.1: Map Data Structure  
+#### Map is a data structure that allows us to store Key-Value pairs.
 #### Map does not allow Duplicate Keys  
+### Map is very efficient for adding and looking up Values for Keys
 
 ### Complexity:
 1. Insertion: O(1)
