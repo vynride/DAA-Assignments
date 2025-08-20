@@ -123,3 +123,7 @@ int main() {
     printList(flattenedList);
 }
 ```
+
+Output:
+
+![](images/Q5_Flattening_Of_Linked_List_20250820233153056.png)

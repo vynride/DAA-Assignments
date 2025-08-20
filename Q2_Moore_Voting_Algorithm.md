@@ -93,7 +93,10 @@ int main() {
         cout << "Majority Element: " << majority << endl;
     else
         cout << "No Majority Element found." << endl;
-
-    return 0;
 } 
 ```
+
+
+Output:
+
+![](images/Q2_Moore_Voting_Algorithm_20250820232628353.png)

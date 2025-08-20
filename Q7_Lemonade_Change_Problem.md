@@ -84,3 +84,7 @@ int main() {
     cout << (lemonadeChange(notes) ? "true" : "false") << endl;
 }
 ```
+
+Output:
+
+![](images/Q7_Lemonade_Change_Problem_20250820233425332.png)

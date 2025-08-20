@@ -90,3 +90,7 @@ int main() {
     printList(head);
 }
 ```
+
+Output:
+
+![](images/Q8_Remove_Nth_Node_From_Back_20250820233558627.png)

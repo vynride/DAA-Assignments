@@ -2,7 +2,6 @@
 ### Section: A1
 ### Roll No: 2
 
-
 ## Q.3: Program to detect a loop in linked list  
 
 A loop in a linked list means one node in the list is connected back to another node in the list.
@@ -90,3 +89,6 @@ int main() {
     cout << (hasCycle(node1) ? "true" : "false") << endl;
 }
 ```
+
+Output:
+![](images/Q3_Loop_In_Linked_List_20250820232746001.png)

@@ -73,6 +73,7 @@ int main() {
     vector<int> departures = {910, 1200, 1120, 1130, 1900, 2000};
     
     cout << "Minimum platforms required: " << findMinPlatforms(arrivals, departures) << endl; 
-    return 0;
 }
 ```
+
+![](images/Q6_Minimum_Number_Of_Platform_Required_20250820233305265.png)

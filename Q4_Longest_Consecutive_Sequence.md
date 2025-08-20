@@ -39,9 +39,6 @@ Output: 8
 using namespace std;
 
 int findLongestConsecutive(vector<int>& nums) {
-    if (nums.empty()) {
-        return 0;
-    }
 
     unordered_set<int> numSet(nums.begin(), nums.end());
     int longest = 0;
@@ -67,3 +64,7 @@ int main() {
     cout << findLongestConsecutive(nums) << endl; 
 }  
 ```
+
+Output:
+
+![](images/Q4_Longest_Consecutive_Sequence_20250820233031893.png)

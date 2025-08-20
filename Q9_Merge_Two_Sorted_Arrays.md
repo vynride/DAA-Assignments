@@ -74,3 +74,7 @@ int main() {
     printArray(arr2);
 }
 ```
+
+Output:
+
+![](images/Q9_Merge_Two_Sorted_Arrays_20250820233709125.png)

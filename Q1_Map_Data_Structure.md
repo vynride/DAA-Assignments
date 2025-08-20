@@ -53,7 +53,10 @@ Name: Adarsh Score: 95
 Name: Vivian Scores: 90  
 ```
 
-### 1. Ordered Map 
+
+![](images/Q1_Map_Data_Structure_20250820232317160.png)
+
+### 2. Ordered Map 
 In Ordered Map the order in which Key-Value pairs are inserted is maintained.  
 
 ```cpp
@@ -82,3 +85,5 @@ Name: Vivian Score: 90
 Name: Shardul Scores: 93  
 Name: Adarsh Score: 95  
 ```
+
+![](images/Q1_Map_Data_Structure_20250820232505636.png)
